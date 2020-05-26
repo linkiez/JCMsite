@@ -1,0 +1,1 @@
+document.write(`<p>Desenvolvido por Fabio Moreno</p>`)

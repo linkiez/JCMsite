@@ -10,7 +10,6 @@
     display: flex;
     width: 100%;
     margin: 5px;
-
 }
 
 .cell {
@@ -74,8 +73,6 @@ h5 {
 }
 
 .dark:first {}
-
-
 
 .bright {
     background: hsla(359, 100%, 100%, 0.5);
