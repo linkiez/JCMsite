@@ -72,8 +72,6 @@ h5 {
     margin: 2px 0 0 2px;
 }
 
-.dark:first {}
-
 .bright {
     background: hsla(359, 100%, 100%, 0.5);
     color: black;
